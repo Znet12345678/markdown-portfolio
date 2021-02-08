@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Communism
+2. Computer Science
+3. Reptiles
+   1. Lizards
+   2. Snakes
